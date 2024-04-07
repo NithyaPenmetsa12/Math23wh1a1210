@@ -1,4 +1,5 @@
-#ODE with the help of the odeint function. dy/dt = -yt + 13
+#ODE with the help of the odeint function and plot the graph of solution
+#dy/dt = -yt + 13
 import numpy as np 
 from scipy.integrate import odeint 
 import matplotlib.pyplot as plt 
